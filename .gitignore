@@ -130,3 +130,6 @@ dmypy.json
 
 # Kaggle credentails
 kaggle.json
+
+# data folder
+data/**
