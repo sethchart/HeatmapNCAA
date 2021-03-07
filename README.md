@@ -1,2 +1,3 @@
 # HeatmapNCAA
-A quick look at regular season NCAA games from this year's March Machine Learning Mania 2021 - NCAAM.
+
+This repository is a minimal example for this [blog post](https://sethchart.com/posts/7/).
